@@ -292,9 +292,7 @@
    Begins with uppercase? : No
    ```
 ## 发布应用
-1. 运行下面的命令：
-
-   .NET CLI复制
+   运行下面的命令：
 
    ```dotnetcli
    dotnet publish --configuration Release
@@ -304,7 +302,6 @@
 
    该命令的输出类似于以下示例：
 
-   输出复制
 
    ```output
    Microsoft (R) Build Engine version 16.7.0+b89cb5fde for .NET
@@ -314,5 +311,5 @@
      HelloWorld -> C:\Projects\HelloWorld\bin\Release\netcoreapp3.1\HelloWorld.dll
      HelloWorld -> C:\Projects\HelloWorld\bin\Release\netcoreapp3.1\publish\
    ```
-
+    输出目录：ClassLibraryProjects\ShowCase\bin\Release\net5.0\publish
 

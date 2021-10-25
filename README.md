@@ -1,8 +1,5 @@
 # 使用 Visual Studio Code 创建 .NET 类库
 
-- 2021/09/28
-- - [T](https://github.com/tdykstra)
-  - [O](https://github.com/olprod)
 
 在本教程中，将创建包含一个字符串处理方法的简单实用工具库。
 

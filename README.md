@@ -291,3 +291,28 @@
    Input: a string that starts with a lowercase letter
    Begins with uppercase? : No
    ```
+## 发布应用
+1. 运行下面的命令：
+
+   .NET CLI复制
+
+   ```dotnetcli
+   dotnet publish --configuration Release
+   ```
+
+   默认生成配置为“调试”，因此此命令指定“版本”生成配置 。 版本生成配置的输出进行了完全优化，且具有最低限度的符号调试信息。
+
+   该命令的输出类似于以下示例：
+
+   输出复制
+
+   ```output
+   Microsoft (R) Build Engine version 16.7.0+b89cb5fde for .NET
+   Copyright (C) Microsoft Corporation. All rights reserved.
+     Determining projects to restore...
+     All projects are up-to-date for restore.
+     HelloWorld -> C:\Projects\HelloWorld\bin\Release\netcoreapp3.1\HelloWorld.dll
+     HelloWorld -> C:\Projects\HelloWorld\bin\Release\netcoreapp3.1\publish\
+   ```
+
+

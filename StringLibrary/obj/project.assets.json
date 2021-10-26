@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\DotNet\\ClassLibraryProjects\\StringLibrary\\StringLibrary.csproj",
+      "projectUniqueName": "E:\\dotnet\\StringLibrary\\StringLibrary.csproj",
       "projectName": "StringLibrary",
-      "projectPath": "E:\\DotNet\\ClassLibraryProjects\\StringLibrary\\StringLibrary.csproj",
+      "projectPath": "E:\\dotnet\\StringLibrary\\StringLibrary.csproj",
       "packagesPath": "C:\\Users\\tuze.nanpre\\.nuget\\packages\\",
-      "outputPath": "E:\\DotNet\\ClassLibraryProjects\\StringLibrary\\obj\\",
+      "outputPath": "E:\\dotnet\\StringLibrary\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\tuze.nanpre\\AppData\\Roaming\\NuGet\\NuGet.Config",

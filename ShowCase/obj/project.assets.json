@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\DotNet\\ClassLibraryProjects\\ShowCase\\ShowCase.csproj",
+      "projectUniqueName": "E:\\dotnet\\ShowCase\\ShowCase.csproj",
       "projectName": "ShowCase",
-      "projectPath": "E:\\DotNet\\ClassLibraryProjects\\ShowCase\\ShowCase.csproj",
+      "projectPath": "E:\\dotnet\\ShowCase\\ShowCase.csproj",
       "packagesPath": "C:\\Users\\tuze.nanpre\\.nuget\\packages\\",
-      "outputPath": "E:\\DotNet\\ClassLibraryProjects\\ShowCase\\obj\\",
+      "outputPath": "E:\\dotnet\\ShowCase\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\tuze.nanpre\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -53,8 +53,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "E:\\DotNet\\ClassLibraryProjects\\StringLibrary\\StringLibrary.csproj": {
-              "projectPath": "E:\\DotNet\\ClassLibraryProjects\\StringLibrary\\StringLibrary.csproj"
+            "E:\\dotnet\\StringLibrary\\StringLibrary.csproj": {
+              "projectPath": "E:\\dotnet\\StringLibrary\\StringLibrary.csproj"
             }
           }
         }

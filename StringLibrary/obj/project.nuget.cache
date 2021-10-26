@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Jkgh4zWN0X1liKX1Qb/V0w5kEaM0umXthA5NlTzVmAkyiErW7Sz5AV6/F1sSx5uxdAwFksGk9t5aJmveSlvt8A==",
+  "dgSpecHash": "Uc5wgRcj/IvEBRSZpZycqWQz3kxdZVjtsYNOOpQd8ogaa89rUcH/XwJ25A66rH3J3cL8QzSjWrO52EQ+t1CZDw==",
   "success": true,
-  "projectFilePath": "E:\\DotNet\\ClassLibraryProjects\\StringLibrary\\StringLibrary.csproj",
+  "projectFilePath": "E:\\dotnet\\StringLibrary\\StringLibrary.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

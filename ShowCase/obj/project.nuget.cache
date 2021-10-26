@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MBt0183si+15TsbmeO7QsMucg7gXIr6Z1Ukc2uExLPiBU/dZht8fLvfQtEWSHZcoG/XRgzxiFF0hd207cp7ewg==",
+  "dgSpecHash": "eo3UX+UzA2f9J+oKiyCqlPHn1A4JSWmE1ZnTkOqBYoC/PcgtO5yaXtosq8vDjGwoBnRjfF4aaRDEKv5ndnk3Lg==",
   "success": true,
-  "projectFilePath": "E:\\DotNet\\ClassLibraryProjects\\ShowCase\\ShowCase.csproj",
+  "projectFilePath": "E:\\dotnet\\ShowCase\\ShowCase.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
